@@ -32,10 +32,24 @@ The player arrives at a strange, seemingly isolated house and encounters Thale, 
 
 1. Clone the repository
 2. Open the project in Unity
-3. Open the main scene
+3. Open the Main scene
 4. Press Play
 
 ---
+
+## To Update the Project
+### Choice 1:
+1. Use thaleUpdater script
+```bash
+cd path/to/Thale
+python thaleUpdater.py
+```
+### Choice 2:
+2. Use Git Commands
+```bash
+cd path/to/Thale
+git pull
+```
 
 ## Repository Structure
 

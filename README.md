@@ -51,6 +51,8 @@ cd path/to/Thale
 git pull
 ```
 
+---
+
 ## Repository Structure
 
 ```plaintext

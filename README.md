@@ -37,7 +37,7 @@ The player arrives at a strange, seemingly isolated house and encounters Thale, 
 
 ---
 
-## To Update the Project
+## Updating the Project
 ### Choice 1:
 1. Use thaleUpdater script
 ```bash
